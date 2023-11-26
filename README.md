@@ -1,1 +1,1 @@
-# c_plus_plus
+The book I am following is C++ Early Objects 8th Edition
