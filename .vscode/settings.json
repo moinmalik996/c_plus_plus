@@ -1,11 +1,5 @@
 {
     "files.associations": {
-        "ostream": "cpp",
-        "iostream": "cpp",
-        "cstdlib": "cpp",
-        "iosfwd": "cpp",
-        "functional": "cpp",
-        "numeric": "cpp",
-        "cmath": "cpp"
+        "iostream": "cpp"
     }
 }
